@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Noura Maher!
 <a href='https://www.linkedin.com/in/nouramaher/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AAAAAA?style=flat&logo=linkedin&logoColor=white" height='22px'/></a>
 
-<a href='https://www.youtube.com/@your-channel' target="_blank"><img align='left' alt="YouTube" src="https://img.shields.io/badge/YouTube-AAAAAA?style=flat&logo=youtube&logoColor=white" height='22px'/></a>
+<a href='https://www.youtube.com/@nouram.w' target="_blank"><img align='left' alt="YouTube" src="https://img.shields.io/badge/YouTube-AAAAAA?style=flat&logo=youtube&logoColor=white" height='22px'/></a>
 <br/><br/>
 🎯 Learning to Code | Exploring Web & Data | CS Student
 
