@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="165px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="15px"/>
 I'm a Computer Science student at the Egyptian Chinese University with a passion for programming and problem-solving. Currently focused on expanding my skills in software development and AI technologies.
 
 ## 🛠 Technical Skills
