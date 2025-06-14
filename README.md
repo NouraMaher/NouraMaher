@@ -1,14 +1,18 @@
-## Hey 👋, I'm Noura Maher!
+<div align="center">
+
 <a href='https://www.linkedin.com/in/nouramaher/'><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AAAAAA?style=flat&logo=linkedin&logoColor=white" height='22px'/></a>
 
 <a href='https://www.youtube.com/@nouram.w' target="_blank"><img align='left' alt="YouTube" src="https://img.shields.io/badge/YouTube-AAAAAA?style=flat&logo=youtube&logoColor=white" height='22px'/></a>
 <br/><br/>
-🎯 Learning to Code | Exploring Web & Data | CS Student
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=500&lines=I'm+Noura+Maher;+Web+Development+%26++Data+Science+Enthusiast;+Problem+Solver+%7C+Learning+to+Code;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
+
+</div>
 
 ## 🚀 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
-I'm a Computer Science student at the Egyptian Chinese University with a passion for programming and problem-solving. Currently focused on expanding my skills in software development and AI technologies.
+I'm a Computer Science student at the Egyptian Chinese University with a passion for programming and problem-solving. Currently focused on expanding my skills in software development & Data Science
 
 ## 🛠 Technical Skills
 
