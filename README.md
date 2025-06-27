@@ -7,7 +7,7 @@
 
 <img src="https://github.com/NouraMaher/NouraMaher/blob/main/gggg.gif?raw=true" width="40%" alt="Developer working" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=500&lines=I'm+Noura+Maher;+Web+Development+%26;Data+Science+Enthusiast;+Problem+Solver+%7C+Learning+to+Code;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=500&lines=I'm+Noura+Maher;+Web+Development;+%26+Data+Science+Enthusiast;+Problem+Solver+%7C+Learning+to+Code;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
 
 </div>
 
